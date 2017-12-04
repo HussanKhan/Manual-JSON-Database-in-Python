@@ -9,18 +9,19 @@ The user creates key value pairs and has to manually put in information.
 
 <b>Motivation</b>
 
-This is my third ever program, and I personally thought it would be good practice with JSON. As mentioned before, this program create a database in python that a user can manually edit. 
+This is my third ever program, and I personally thought it would be good practice with JSON. As mentioned before, this program creates a database in python that a user can manually edit. 
 
 <b>Build Status</b>
 
-Currently the program functions as it’s supposed, so it is completed. I may edit it in the future if I find any errors.
-Code Style
+Currently the program functions as it’s supposed to, so it is completed. I may edit it in the future if I find any errors.
+
+<b>Code Style</b>
 
 The style of my code may seem pretty basic, but this is the third program I have ever made, so I think it’s acceptable. If you think there is a more efficient way to do something, please let me know.   
 
 <b>Installation</b> 
 
-The program stores the JSON database in whatever dictionary the program is run. The program also loads JSON databases in proper format if it is in the same dictionary as the running program. 
+The program stores the JSON database in whatever dictionary the program is run. The program also loads JSON databases that are in proper  format, if it is in the same dictionary as the running program. 
 
 <b>How to Use</b>
 
