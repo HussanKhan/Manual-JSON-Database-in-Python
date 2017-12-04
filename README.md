@@ -3,7 +3,7 @@
 This is a python program that allows you to create, view, append a JSON file, and allows you to remove entries from a JSON file. 
 The JSON database uses the format below to create a JSON file, and is also made to read and append in that format. 
 
-{ ‘FILE_NAME’ : [ {‘KEY’:’VALUE’} ] }
+{ ‘FILE_NAME’ : [ {‘KEY’:’VALUE’}, {'KEY2':'VALUE2'} ] }
 
 The user creates key value pairs and has to manually put in information. 
 
