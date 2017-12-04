@@ -7,22 +7,22 @@ The JSON database uses the format below to create a JSON file, and is also made 
 
 The user creates key value pairs and has to manually put in information. 
 
-<b>Motivation
+<b>Motivation</b>
 
 This is my third ever program, and I personally thought it would be good practice with JSON. As mentioned before, this program create a database in python that a user can manually edit. 
 
-<b>Build Status
+<b>Build Status</b>
 
 Currently the program functions as it’s supposed, so it is completed. I may edit it in the future if I find any errors.
 Code Style
 
 The style of my code may seem pretty basic, but this is the third program I have ever made, so I think it’s acceptable. If you think there is a more efficient way to do something, please let me know.   
 
-<b>Installation 
+<b>Installation</b> 
 
 The program stores the JSON database in whatever dictionary the program is run. The program also loads JSON databases in proper format if it is in the same dictionary as the running program. 
 
-<b>How to Use
+<b>How to Use</b>
 
 I recommend storing the program in a folder, and then simply running it in the command prompt. Follow the directions provided in the program. 
 
